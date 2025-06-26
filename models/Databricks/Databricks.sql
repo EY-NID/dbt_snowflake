@@ -1,1 +1,1 @@
-select  * from postgres_myschema.stg_products where category ='Mobile'
+select  * from workspace.postgres_myschema.stg_products where category ='Mobile'
