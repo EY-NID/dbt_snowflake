@@ -1,1 +1,1 @@
-select  * from  fivetran.postgres_myschema.stg_products where category ='Mobile'
+select  * from  postgres_myschema.stg_products where category ='Mobile'
